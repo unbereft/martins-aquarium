@@ -1,0 +1,12 @@
+.fishList {
+    display: flex;
+    justify-content: center;
+}
+
+.fish__card {
+    border: dotted teal;
+    
+}
+.fishTips.tip {
+    position: absolute;
+}
